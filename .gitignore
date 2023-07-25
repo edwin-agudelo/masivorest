@@ -1,0 +1,9 @@
+# directories
+Debug/
+Release/
+
+#files
+*.exe
+*.dll
+*.filters
+*.user
